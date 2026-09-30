@@ -10,7 +10,7 @@
 
 🌱 Todavía en formación, aprendiendo un poco más en cada ramo y también por mi cuenta
 
-💻 He trabajado con Python, C, SQL, HTML y CSS, y uso Git y GitHub para mis proyectos
+💻 He trabajado con Python, C, JavaScript, Scala, SQL, HTML y CSS, y uso Git y GitHub para mis proyectos
 
 🎮 Fuera del código: videojuegos, en especial CS2
 <!-- Intro end -->
