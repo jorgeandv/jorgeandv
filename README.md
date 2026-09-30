@@ -3,7 +3,7 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35" alt="Saludo">
 </h1>
 
-## Sobre mí 😃
+## Sobre mí 🤓
 
 <!-- Intro start -->
 🎓 **Estudiante de Ingeniería Civil en Computación** en la Universidad de Chile
